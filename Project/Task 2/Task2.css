@@ -1,0 +1,9 @@
+.page {
+    background-color:rgba(122, 41, 160, 0.692);
+    width: 500px;
+    height: 156 px;
+    margin: 50px;
+    padding: 20px;
+    box-shadow: 12px 12px 10px gray;
+     border-radius: 10px;
+}
